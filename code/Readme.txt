@@ -45,7 +45,7 @@ or
 
 https://www.dropbox.com/sh/0tvd1lkl2uhamhe/AADb2ylm9zSNxNzzhSL6DjbAa
 
-(3) If you intend to test this code on CIFAR10-DVS ,N-MNIST,N-CARS, download the dataset and use the following MATLAB file (.m) to create .mat files
+(3) If you intend to test this code on CIFAR10-DVS, N-MNIST, N-CARS, download raw files of these datasets and use the following MATLAB file (.m) to create .mat files
 
 https://www.dropbox.com/sh/zifpqgyb61uw076/AAC0jZcI7qLvKuvAB6EvHpMca?dl=0
 
