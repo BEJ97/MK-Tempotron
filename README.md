@@ -36,6 +36,6 @@ matlab
 ```
 ### Preparations:
 1. Download Datasets 
-2. Transfer raw datasets to .mat files
+2. Transfer raw datasets to .mat files (or download our processed mat files following the instruction in readme.txt in code folder)
 ### Running examples:
 Change the Matlab directory to the code folder and execute the Matlab script Top_on***.m based on which datasets you want to test.
