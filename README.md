@@ -1,5 +1,5 @@
 # MK-Tempotron_
-Efficient Motion Symbol Detection and Multi-kernel Learning for Event-based Object Recognition(TCDS2021)
+Efficient Motion Symbol Detection and Multi-kernel Learning for Event-based Object Recognition(TCDS 2021)
 
 ![imgage](https://github.com/BEJ97/MK-Tempotron/blob/main/image/framework%20of%20MK-Tempotron.png)
 ## Summary
